@@ -1,9 +1,14 @@
 ## Hướng dẫn
-[IOS](ios)
+####IOS
+[Quét QR](ios)
 
-[Android](android)
+[Cài đặt IOTA](ios_pin)
 
-[PC](pc)
+#### Android
+[Quét QR](android)
+
+#### PC
+[Quét QR](pc)
 
 ### Báo lỗi & góp ý:
 [Qua Telegram](https://t.me/iotabot_app_bot)
