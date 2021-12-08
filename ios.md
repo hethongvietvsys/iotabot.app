@@ -1,4 +1,4 @@
-IOS
+### IOS
 Sử dụng ứng dụng camera:
 
 ![Sử dụng ứng dụng camera:](img/ios2.png)
