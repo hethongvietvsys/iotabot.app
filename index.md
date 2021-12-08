@@ -1,6 +1,6 @@
 ## Hướng dẫn
-[IOS](ios.md)
+[IOS](ios)
 
-[Android](android.md)
+[Android](android)
 
-[PC](pc.md)
+[PC](pc)
