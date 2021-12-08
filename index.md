@@ -1,13 +1,22 @@
 ## Hướng dẫn
+
 ####IOS
+![](img/iphone_icon_24.png)
+
 [Quét QR](ios)
 
 [Cài đặt IOTA](ios_pin)
 
+
 #### Android
+![](img/android_24.png)
+
 [Quét QR](android)
 
+
 #### PC
+![](img/pc_24.png)
+
 [Quét QR](pc)
 
 ### Báo lỗi & góp ý:
