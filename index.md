@@ -1,6 +1,6 @@
 ## Hướng dẫn
 
-####IOS
+#### IOS
 ![](img/iphone_icon_24.png)
 
 [Quét QR](ios)
