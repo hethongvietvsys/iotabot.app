@@ -1,2 +1,2 @@
 ## Hướng dẫn
-[IOS](/ios).
+[IOS](ios)
