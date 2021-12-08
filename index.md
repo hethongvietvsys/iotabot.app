@@ -1,5 +1,5 @@
 ## Hướng dẫn
-####IOS
+#### IOS
 [Quét QR](ios)
 
 [Cài đặt IOTA](ios_pin)
